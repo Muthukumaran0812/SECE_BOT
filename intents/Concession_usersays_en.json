@@ -1,0 +1,259 @@
+[
+  {
+    "id": "1b53a1d1-6723-4034-8bba-8a14ce1459eb",
+    "data": [
+      {
+        "text": "fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1f2c0e0-4cc0-4500-a5f4-19d1e0c26580",
+    "data": [
+      {
+        "text": "scholarship for sports quota",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbb43410-7d26-490e-9d16-a785b4ef3c6f",
+    "data": [
+      {
+        "text": "scholarship for athelets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08b29201-c701-4ff8-80e9-7faef4f3f857",
+    "data": [
+      {
+        "text": "scholarship for atheltes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "326b3f44-bd9c-4112-914f-d5ca5c0f5a89",
+    "data": [
+      {
+        "text": "scholarship for atheletes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bc709e5-4c6c-4957-81d8-410d7ec6151c",
+    "data": [
+      {
+        "text": "iam an athelete can i get scholarship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ec0b89f-2f86-444a-a736-b4d0fd5928d3",
+    "data": [
+      {
+        "text": "i am an athelete can i get fee concession",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc91581e-58a9-46f4-9872-b083512f79bc",
+    "data": [
+      {
+        "text": "Can i have ",
+        "userDefined": false
+      },
+      {
+        "text": "fees",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "concession",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "442981b1-45ac-428b-aa31-6fbfe7d6eee1",
+    "data": [
+      {
+        "text": "athelete fees ",
+        "userDefined": false
+      },
+      {
+        "text": "concession",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5b2a334-ede0-42f3-a364-79133d3502eb",
+    "data": [
+      {
+        "text": "scholarship",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "marks",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "194569a0-5bb2-4863-9171-ca66f20e977a",
+    "data": [
+      {
+        "text": "marks",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "scholarship",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e4bdb3b-2166-488d-871a-8637d82ec20e",
+    "data": [
+      {
+        "text": "fees ",
+        "userDefined": false
+      },
+      {
+        "text": "reduction",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69c7d268-884a-4558-b3df-7163b5cc21ab",
+    "data": [
+      {
+        "text": "fees ",
+        "userDefined": false
+      },
+      {
+        "text": "reduce",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee680bbd-33d4-4b9f-bbb0-ec399a87bbc3",
+    "data": [
+      {
+        "text": "reduce ",
+        "userDefined": false
+      },
+      {
+        "text": "fees",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3904747-f8c8-4e31-8be5-a3d5754c94b1",
+    "data": [
+      {
+        "text": "concession",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6235a5d-c096-4fe4-bb36-3502604492d1",
+    "data": [
+      {
+        "text": "scholarship",
+        "alias": "concession",
+        "meta": "@concession",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

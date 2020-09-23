@@ -1,0 +1,9 @@
+{
+  "id": "94c0833d-997e-400a-b450-8d80c6bf94fe",
+  "name": "soru",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

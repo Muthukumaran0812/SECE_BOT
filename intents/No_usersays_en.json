@@ -1,0 +1,83 @@
+[
+  {
+    "id": "52aabebb-b73f-4cb2-b7df-4857f4b3bdb6",
+    "data": [
+      {
+        "text": "is food  free in the college canteen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "683bcc5a-65d8-46c0-9576-11cc2f6abb29",
+    "data": [
+      {
+        "text": "is this college very strict",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe6eb02d-585f-4305-ad37-1d0a40aa08c2",
+    "data": [
+      {
+        "text": "is your college strict",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d0d0421-2090-4a37-a2e6-9d1abcd344dc",
+    "data": [
+      {
+        "text": "Is sece is strict college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfab3a4e-737e-4f90-bc56-4694d999d93f",
+    "data": [
+      {
+        "text": "is talking with girls allowed in the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbf3e0a0-c9f3-486c-ae7d-fe627b72bf4f",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

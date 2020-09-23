@@ -1,0 +1,44 @@
+{
+  "id": "a2dde2a7-58ad-4704-aa7e-f07654793e47",
+  "name": "College visit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "467c2ce7-0b65-41a2-b0a7-a2aa8f165f04",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We Would love to have you in our campus.\nYou can visit our college on all the working days\n between 9 AM to 4 PM"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

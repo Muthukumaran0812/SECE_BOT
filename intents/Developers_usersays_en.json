@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2b2679e4-3796-45ae-a247-a276d6ba9f89",
+    "data": [
+      {
+        "text": "who are the developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d60a87e-2604-44d8-b167-8cc9d47e3417",
+    "data": [
+      {
+        "text": "developers of this bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "964474d6-3335-45d1-a0bf-c75361c21910",
+    "data": [
+      {
+        "text": "who is your owner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8f651d6-eb79-43c8-9bf9-531bf17f9e06",
+    "data": [
+      {
+        "text": "develo[pers of you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3f0a3fc-0424-454c-9109-446c8d47e149",
+    "data": [
+      {
+        "text": "who are they developed you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c9b8580-d7cc-408e-be94-a645eed0019c",
+    "data": [
+      {
+        "text": "Who developed you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

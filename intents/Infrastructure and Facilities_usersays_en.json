@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d1840db6-fc96-4e8d-a4b3-c5267f6c58c4",
+    "data": [
+      {
+        "text": "amenity center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f72b3957-448c-4f4a-9f29-8fd8dd725e9d",
+    "data": [
+      {
+        "text": "food court",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "835f750f-2d12-4cb6-8ac2-840b44ea6741",
+    "data": [
+      {
+        "text": "infrastructure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a442278a-43a9-4392-96c4-0b506299bab5",
+    "data": [
+      {
+        "text": "facilities available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e227095d-e686-4e91-bc6c-a9a77f910521",
+    "data": [
+      {
+        "text": "facilities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c1f9c9c-4633-4dc0-8716-f60b26708f9b",
+    "data": [
+      {
+        "text": "facilities available in sece",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "84079b83-aff5-4874-aad6-977035c47c0f",
+    "data": [
+      {
+        "text": "what are the facilites available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07f5dae3-159c-446a-bd94-8916d5f64758",
+    "data": [
+      {
+        "text": "what are the infrastructure and facilities do u have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

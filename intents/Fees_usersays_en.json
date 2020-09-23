@@ -1,0 +1,196 @@
+[
+  {
+    "id": "c1c79b8c-748c-40c3-a767-db9aebe18b01",
+    "data": [
+      {
+        "text": "can i get free",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7330eaad-0135-4552-aa31-730d98878191",
+    "data": [
+      {
+        "text": "scholorship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09ca4c71-d407-4ec7-ba86-201effc9bb91",
+    "data": [
+      {
+        "text": "what is the fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21507fd6-aac8-4a8b-bed3-978906afaa67",
+    "data": [
+      {
+        "text": "fee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "020bbe3a-cfd8-4cad-a7a3-6fd3f405860e",
+    "data": [
+      {
+        "text": "tution fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf90a35a-67e3-4339-ba5e-21620beb691e",
+    "data": [
+      {
+        "text": "exam ",
+        "userDefined": false
+      },
+      {
+        "text": "fess",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4db314b9-c380-4884-8fe8-f5fc4a96f568",
+    "data": [
+      {
+        "text": "college fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a0f54d1-2e9d-475e-806f-a0376ad021db",
+    "data": [
+      {
+        "text": "amount for college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6e2ca11-2373-4d42-bb5c-4f3503f06bf4",
+    "data": [
+      {
+        "text": "fees",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "586cad0a-6dbf-49a4-99bb-a09ff557c748",
+    "data": [
+      {
+        "text": "what is the total amout to be paid ",
+        "userDefined": false
+      },
+      {
+        "text": "per",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " annum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b881c070-9120-40dc-a661-5d6a352687c4",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fess",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b60c1ec0-2510-4c12-9e2f-2209356bbd68",
+    "data": [
+      {
+        "text": "fess",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " structure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f321eda5-6298-4f56-8a50-9219adf8c44d",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fess",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Structure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

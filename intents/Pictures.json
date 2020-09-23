@@ -1,0 +1,102 @@
+{
+  "id": "bc429369-5b87-4998-b222-8b7f3666abd5",
+  "name": "Pictures",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b6d2885f-22fa-4156-b648-cd0eafe1a54f",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://sece.ac.in/wp-content/uploads/2020/02/College-Photo_Banner-2-1.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://sece.ac.in/wp-content/uploads/2019/11/6117a-400x300.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://sece.ac.in/wp-content/uploads/2019/12/gallery_1-400x300.png"
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://sece.ac.in/wp-content/uploads/2020/03/Gazebos-to-discuss-and-relax.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://sece.ac.in/wp-content/uploads/2020/03/Mechanical-Block.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://sece.ac.in/wp-content/uploads/2020/03/Temple.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://sece.ac.in/wp-content/uploads/2019/11/43502-400x300.jpg"
+        },
+        {
+          "type": 3,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "imageUrl": "https://sece.ac.in/wp-content/uploads/2019/12/it1-400x300.jpg"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "For further images visit \nhttps://sece.ac.in/"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

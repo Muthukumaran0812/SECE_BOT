@@ -1,0 +1,104 @@
+[
+  {
+    "id": "0b7beae4-f61d-49aa-ba71-85a9c063639b",
+    "data": [
+      {
+        "text": "where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53f43a4e-0553-463e-bdc2-8b1278d6370e",
+    "data": [
+      {
+        "text": "should i go counselling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f3444dc-315e-4bef-be8c-ccc1c7831a18",
+    "data": [
+      {
+        "text": "code for counselling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10865b73-3479-4124-9793-1f6355a2e2fd",
+    "data": [
+      {
+        "text": "anna university counselling code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8eb9d138-dc01-47e0-ab9b-e84a9f553670",
+    "data": [
+      {
+        "text": "counselling code of your ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e5afae1-37cc-4afc-bc4e-3fa00e271921",
+    "data": [
+      {
+        "text": "what is the counselling code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7595cf5f-b641-4a9a-9b95-29d1cf7b60e3",
+    "data": [
+      {
+        "text": "what is the counselling code of your ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

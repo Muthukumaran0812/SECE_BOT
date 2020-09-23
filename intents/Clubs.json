@@ -1,0 +1,50 @@
+{
+  "id": "3c1f8eb8-ba2d-41ad-8b10-b67be48a6b47",
+  "name": "Clubs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "20ef2b09-53d4-4e9f-b1ac-c71fcaac2389",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We have many clubs.Like\nEmbedded and IOT  club,\nVLSI club,\nRobotics club,\nandroid club,\ncoding club etc.,"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can join any of these clubs , as per your wish!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

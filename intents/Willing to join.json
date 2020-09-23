@@ -1,0 +1,44 @@
+{
+  "id": "e04786da-c544-4f3b-bc55-081b6350ae01",
+  "name": "Willing to join",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e26a0d3d-14d3-4309-9bc0-832e403b7f4c",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Wow! That\u0027s a great Option .Fill this form \nhttps://docs.google.com/forms/d/e/1FAIpQLSdmGL0uGlzTX2qsk6ZeS_\nEiuej0SfWQ4suaDWYw6Zkt7Z9LTA/viewform?usp\u003dsend_form .\nOur management  will contact you within few days."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

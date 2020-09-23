@@ -1,0 +1,59 @@
+{
+  "id": "6953e306-c9ba-4345-8649-409859b87292",
+  "name": "Departments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bb48269d-c424-4ec2-b909-e216258b1d7f",
+          "required": false,
+          "dataType": "@course",
+          "name": "course",
+          "value": "$course",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "96c8d6f7-2df8-4461-9ac3-863419260f13",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "There are 6 Departments available in our college.\nElectronics And Communication Engineering,\nComputer Science Engineering,Electrical,\nElectronic Communication Engineering,\nComputer And Communication Engineering,\nInformation Technology,\nComputer Science and Business Systems,   \nMechanical Engineering.",
+            "There are 6 Departments available.ECE,CSE,CCE,,CBS,IT,MECH."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

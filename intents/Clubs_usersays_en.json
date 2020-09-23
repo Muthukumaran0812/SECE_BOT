@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2261991a-782e-4d26-b77d-08574e1fc128",
+    "data": [
+      {
+        "text": "clubs available in your ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1af78d3-a2af-415b-9809-fdf199477f17",
+    "data": [
+      {
+        "text": "what  clubs are availablle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d96ee1c3-2748-49da-8b69-740eb9ba9d6a",
+    "data": [
+      {
+        "text": "clubs available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46684f3f-9644-411b-93e3-af374e56521a",
+    "data": [
+      {
+        "text": "what are the clubs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef8d74d3-cbb6-437a-b4e9-9f55adff77ea",
+    "data": [
+      {
+        "text": "clubs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e8a0924-0ff6-4b41-a03c-9929fe848bcb",
+    "data": [
+      {
+        "text": "what are the technical clubs available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e60791b-8b23-4cc9-a9cd-9f62accb9ce5",
+    "data": [
+      {
+        "text": "What are the clubs available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

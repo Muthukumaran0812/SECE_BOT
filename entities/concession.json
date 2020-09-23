@@ -1,0 +1,9 @@
+{
+  "id": "530da47e-2072-4db6-b81e-08d65a92d3e7",
+  "name": "concession",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

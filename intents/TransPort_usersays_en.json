@@ -1,0 +1,123 @@
+[
+  {
+    "id": "7e8388e6-b35d-425c-a968-b12e26374e69",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " bus  available to ",
+        "userDefined": false
+      },
+      {
+        "text": "pollachi",
+        "alias": "location1",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f3ca4f1-632d-4446-b492-587a0759ac9b",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " bus available to ",
+        "userDefined": false
+      },
+      {
+        "text": "pollachi",
+        "alias": "location1",
+        "meta": "@sys.location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54e7bd58-6968-4e74-a96a-a293948e75d0",
+    "data": [
+      {
+        "text": "bus available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e733cc2-6d00-4121-9611-e827ccf51156",
+    "data": [
+      {
+        "text": "is bus facility available for ",
+        "userDefined": false
+      },
+      {
+        "text": "ukkadam",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33024fee-f2fd-4be9-9b76-4c4a8dd4cda5",
+    "data": [
+      {
+        "text": "outside bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efceffde-b439-4e85-a999-923580e28059",
+    "data": [
+      {
+        "text": "bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72f0dc5a-789b-4e8f-bc60-f9ed848955eb",
+    "data": [
+      {
+        "text": "is busTransport available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

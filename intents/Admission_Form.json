@@ -1,0 +1,62 @@
+{
+  "id": "c45a2094-2f74-4ac9-a672-de1711dac8be",
+  "name": "Admission_Form",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [
+        {
+          "name": "know_more",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bf135e7a-490f-4bc0-b1d9-ac60f7508263",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Yes,the admission is happening now for all departments.\n For applying in online visit :"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "https://docs.google.com/forms/d/e/1FAIpQLSdmGL0uGlzTX2qsk6ZeS_Eiuej0SfWQ4suaDWYw6Zkt7Z9LTA/viewform"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Once you fill this form , our college management will contact you wihtin few days . For further details visit https://sece.ac.in/admission-enquiry/  . Counselling code : 2739"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

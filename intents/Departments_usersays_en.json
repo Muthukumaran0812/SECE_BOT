@@ -1,0 +1,518 @@
+[
+  {
+    "id": "4858335b-fe70-4032-85f7-80f7b6127738",
+    "data": [
+      {
+        "text": "BE ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae8a49ef-011a-4c7e-9521-6fb427ec340b",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "course",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bbbea3d-9ff6-4e0e-987c-ff1ff9a3530a",
+    "data": [
+      {
+        "text": "what are all ",
+        "userDefined": false
+      },
+      {
+        "text": "courses",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c78937a-2c33-4b59-ad07-285d726afb21",
+    "data": [
+      {
+        "text": "which ",
+        "userDefined": false
+      },
+      {
+        "text": "course",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " to join",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5e40211-1e63-4e10-9c16-3d73c5902106",
+    "data": [
+      {
+        "text": "courses",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " offered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb5027e3-c252-4322-a4f9-82d366027caa",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "depts",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43b931f1-2b1f-4264-b7f6-dbaaf5e623b3",
+    "data": [
+      {
+        "text": "what are the good ",
+        "userDefined": false
+      },
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "666333c6-4668-48f6-989e-e8621e0285bd",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "dept",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b015e284-10f8-49b3-a397-58a973f9798f",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5a7be9a7-79b5-4103-95f0-c2652215a885",
+    "data": [
+      {
+        "text": "lists of ",
+        "userDefined": false
+      },
+      {
+        "text": "dept",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4570a57a-eac2-4a01-a00a-54e9903f7db0",
+    "data": [
+      {
+        "text": "names of ",
+        "userDefined": false
+      },
+      {
+        "text": "dept",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61c4e2d2-4183-40e5-b97c-b8c8dd016ca6",
+    "data": [
+      {
+        "text": "dept",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " names",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2587b982-4e6e-4655-85c4-74936e02c8de",
+    "data": [
+      {
+        "text": "dept",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fffe6af-9c3a-4be9-ad50-6c7c35892a0d",
+    "data": [
+      {
+        "text": "department",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39eaefd3-1ac6-4ada-9e3a-853a4369b5fc",
+    "data": [
+      {
+        "text": "list ",
+        "userDefined": false
+      },
+      {
+        "text": "department",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73adf3ce-f6d1-4da9-b574-3a0917a4f730",
+    "data": [
+      {
+        "text": "list of ",
+        "userDefined": false
+      },
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71ce9caf-e6d5-48fb-8a4c-d5657115fc84",
+    "data": [
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5c7679c-157e-4bc6-b085-9937bfa6c2f9",
+    "data": [
+      {
+        "text": "can i get the ",
+        "userDefined": false
+      },
+      {
+        "text": "department",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " names",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b1b7386-5545-4cb5-a3da-a6a900e11eda",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d174d42-cdbb-4dcf-a41f-e15c7899c2a5",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " available in your ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42817883-74d9-450e-9391-005a7d5bc5c4",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " available in your college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "03c00f29-de84-4ea6-9817-01589a0c1710",
+    "data": [
+      {
+        "text": "department",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5b6afeb-e3fb-4150-a5f4-5e303ffd67f8",
+    "data": [
+      {
+        "text": "what are the departments available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8eb5af5e-c7eb-48da-acd3-f41810ae345f",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4bcb010-ca6b-404b-b837-f307ea344bbf",
+    "data": [
+      {
+        "text": "departments",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1d7f02a-153d-4325-8c70-6ef78239d1fd",
+    "data": [
+      {
+        "text": "departs",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e2b0ea9-9d50-4db5-a079-2659bbe50730",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "departs",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      },
+      {
+        "text": " available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72a703b9-9f0e-4bda-bbf9-421f97554d05",
+    "data": [
+      {
+        "text": "Depart",
+        "alias": "course",
+        "meta": "@course",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

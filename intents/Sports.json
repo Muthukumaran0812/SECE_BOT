@@ -1,0 +1,31 @@
+{
+  "id": "78890fa0-222a-4315-8095-d55be4429428",
+  "name": "Sports",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We support all forms of games like cricket ,kabbadi, football,hockey,volleyball,basketball etc.,Our college management always supports sports.We also won medals ,championship in almost all the games."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "e11a6c4d-6f34-4774-9ce4-d3d0facbcc56",
+    "data": [
+      {
+        "text": "clean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "157f1296-577c-4947-a410-7c7e1ae90d88",
+    "data": [
+      {
+        "text": "hostel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b4d0245-3137-44de-abf0-75fc56e506f2",
+    "data": [
+      {
+        "text": "can i stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01759c37-2bc9-4310-b6d5-45697b5f34b7",
+    "data": [
+      {
+        "text": "hostel fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04523252-7c66-4176-9028-cd5d271f6753",
+    "data": [
+      {
+        "text": "hostel beds available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "993134d1-22f3-43a4-9aaa-e5d41f34fc17",
+    "data": [
+      {
+        "text": "hostel facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "663f0656-f4e6-4fb3-b74b-b0a2c7bd7256",
+    "data": [
+      {
+        "text": "is beds available in hostel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bb9d316-de9c-4eb3-bd40-0e62e9ccce06",
+    "data": [
+      {
+        "text": "what about hostel facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f0d0d75-f8ed-4250-a63f-ef719b435da9",
+    "data": [
+      {
+        "text": "what about hostel faacility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76a9f1f2-ca05-49a8-9849-c83ea2b0901b",
+    "data": [
+      {
+        "text": "is hostel facility available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

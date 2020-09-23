@@ -1,0 +1,37 @@
+{
+  "id": "3fae0d62-2216-4ed1-ad0b-e74cbceb7205",
+  "name": "Placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We are providing 100 % placements with a salary ranging from 3 L per annum to 13 L per annum."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Few top companies are \nAmazon,\nInformatica,\nThoughtWorks,\nMr.cooper,\nFunds India,\nZoho ,\nMultiCoreware and many ."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

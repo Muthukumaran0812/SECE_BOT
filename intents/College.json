@@ -1,0 +1,44 @@
+{
+  "id": "12b551e3-fc80-4934-be38-b36a6cd467f7",
+  "name": "College",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9802ee09-8a7d-4bdb-88f2-87f67beaa427",
+          "required": false,
+          "dataType": "@college",
+          "name": "college",
+          "value": "$college",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Sri Eshwar College Of Engineering,an Autonomous institution located in Coimbatore.We have National Board of Accreditation (NBA) for ECE,CSE,EEE,Mech and accredited NAAC with  \u0027A\u0027  grade."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

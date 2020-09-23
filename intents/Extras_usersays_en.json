@@ -1,0 +1,158 @@
+[
+  {
+    "id": "01153d45-1765-44ea-a1a4-436e884b65fe",
+    "data": [
+      {
+        "text": "is sports quota available in your ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b116e97c-3601-4813-9023-08439564315a",
+    "data": [
+      {
+        "text": "is sportsquota avail in your ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9b45a40-b2eb-4e34-aae7-8ea469bde839",
+    "data": [
+      {
+        "text": "good teachers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "caeff04e-04d2-4105-9e03-603901604e4c",
+    "data": [
+      {
+        "text": "friendly teachers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff80a652-1e04-4c3c-a8b6-a69723decf79",
+    "data": [
+      {
+        "text": "is teachers are friendly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfc8f0a4-3af6-43b2-ae81-2d29f4449b44",
+    "data": [
+      {
+        "text": "is food available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1701bc0-f8fe-4eb2-9622-df41cfe0696d",
+    "data": [
+      {
+        "text": "is library available in ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42b50400-b601-4bb5-8067-73347ad4399e",
+    "data": [
+      {
+        "text": "is exam papers provided  in ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "855b7a14-c632-4222-bf28-d313e6cac1a6",
+    "data": [
+      {
+        "text": "is water available in ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43d9f5b9-b45a-4322-9747-d9cd196c9ef3",
+    "data": [
+      {
+        "text": "is food is provided in ",
+        "userDefined": false
+      },
+      {
+        "text": "college",
+        "alias": "college",
+        "meta": "@college",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
